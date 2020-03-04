@@ -146,7 +146,6 @@ special instructions.
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
-{% comment %}
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
@@ -155,7 +154,6 @@ special instructions.
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
-{% endcomment %}
 
 {% comment %}
 CONTACT EMAIL ADDRESS
