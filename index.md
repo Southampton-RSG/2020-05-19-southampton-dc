@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "University of Southampton"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "B54/7007, Highfield Campus, SO17 1BJ"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "B54/7033, Highfield Campus, SO17 1BJ"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "uk"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "50.936699"     # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -184,7 +184,8 @@ Display the contact email address set in the configuration file.
 
 
 <p id="registration">
-<strong>Registration:</strong>  We kindly ask that interested participants register on <a href="https://gradbook.soton.ac.uk">GradBook</a> by DEADLINE.
+<strong>Registration:</strong>  We kindly ask that interested participants
+<a href="https://gradbook.soton.ac.uk">register on GradBook</a> by <font color='red'>DEADLINE</font>.
 </p>
 
 <hr/>
